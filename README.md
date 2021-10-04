@@ -3,6 +3,7 @@
 Group Project for DAT650 to model Uncles and uncles rewards. Started with notebook from lectures as init and altered it
 
 Project description:
+
 The goal of this project is to model uncles and uncles' rewards. In this project, you are expected to:
 
 * Model a blockchain that uses uncles and uncle rewards.
