@@ -15,10 +15,3 @@ Project description:
 >1. -How do uncles improve the fairness of the blockchain? For this, you should compare the outcome of miners with and without uncles.
 >2. -What is the impact of uncles on selfish mining? Is selfish mining more profitable with uncles?
 >3. -What does it mean in this model for the selfish mining attack to be profitable?
-
-
-
-
-
-
-
